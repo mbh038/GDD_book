@@ -1,9 +1,11 @@
-# Introduction
+# Introduction to the Group Development Day
 
-This is a book created from markdown and executable code.
+We are going to find out how to use Quarto to create online course materials in the form of books that you can edit whenever you like.
 
-See @knuth84 for additional discussion of literate programming.
+## Morning
 
-```{r}
-1 + 1
-```
+In the morning we will cover all the steps needed to publish a book
+
+## Afternoon
+
+In the afternoon, we will see how to incorporate R code into our book.

@@ -12,11 +12,11 @@
   {
     "objectID": "intro.html",
     "href": "intro.html",
-    "title": "1  Introduction",
+    "title": "1  Introduction to the Group Development Day",
     "section": "",
-    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "text": "1.1 Morning\nWe are going to find out how to use Quarto to create online course materials in the form of books that you can edit whenever you like.\nIn the morning we will cover all the steps needed to publish a book",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction to the Group Development Day</span>"
     ]
   },
   {
@@ -37,6 +37,16 @@
     "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
     "crumbs": [
       "References"
+    ]
+  },
+  {
+    "objectID": "intro.html#afternoon",
+    "href": "intro.html#afternoon",
+    "title": "1  Introduction to the Group Development Day",
+    "section": "1.2 Afternoon",
+    "text": "1.2 Afternoon\nIn the afternoon, we will see how to incorporate R code into our book.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction to the Group Development Day</span>"
     ]
   }
 ]
