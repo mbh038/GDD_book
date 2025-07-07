@@ -5,7 +5,7 @@ project:
 book:
   title: "GDD book"
   author: "Michael Hunt"
-  date: "6/7/2025"
+  date: "7/7/2025"
   chapters:
     - index.qmd
     - intro.qmd
