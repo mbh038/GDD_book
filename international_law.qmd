@@ -1,0 +1,181 @@
+# International law as it affects migratory marine species
+
+Migratory species are found all around the world, on land, in the air and in the oceans. Their effective conservation presents particular challenges since they pass across and between national jurisdictions.
+
+Here we consider some of the international conventions that have been devised in an attempt to overcome those challenges.
+
+## CITES
+
+[CITES](https://cites.org/eng) is the Convention on International Trade in Endangered Species of Wild Flora and Fauna
+
+It is an international agreement between governments. Its aim is to ensure that international trade in specimens of wild animals and plants does not threaten the survival of the species.
+
+### Convention text
+
+CITES was drafted as a result of a resolution adopted in 1963 at a meeting of members of IUCN (The World Conservation Union). The text of the Convention was finally agreed at a meeting of representatives of 80 countries in Washington, D.C., USA, on 3 March 1973, and on 1 July 1975 CITES entered in force. The original of the Convention was deposited with the Depositary Government in the English, French and Spanish languages, each version being equally authentic. The Convention is also available in Chinese and Russian.
+
+### The need for CITES
+
+Widespread information about the endangered status of many prominent species, such as the tiger and elephants, might make the need for such a convention seem obvious. But at the time when the ideas for CITES were first formed, in the 1960s, international discussion of the regulation of wildlife trade for conservation purposes was something relatively new.
+
+With hindsight, the need for CITES is clear. Annually, international wildlife trade is estimated to be worth billions of dollars and to include hundreds of millions of plant and animal specimens.
+
+The trade is diverse, ranging from live animals and plants to a vast array of wildlife products derived from them, including
+
+-   food products
+-   exotic leather goods
+-   wooden musical instruments
+-   timber
+-   tourist curios
+-   medicines
+
+Levels of exploitation of some animal and plant species are high and the trade in them, together with other factors, such as habitat loss, is capable of heavily depleting their populations and even bringing some species close to extinction. Many wildlife species in trade are not endangered, but the existence of an agreement to ensure the sustainability of the trade is important in order to safeguard these resources for the future.
+
+Because the trade in wild animals and plants crosses borders between countries, the effort to regulate it requires international cooperation to safeguard certain species from over-exploitation. CITES was conceived in the spirit of such cooperation. Today, it accords varying degrees of protection to more than 40,000 species of animals and plants, whether they are traded as live specimens, fur coats or dried herbs.
+
+### Parties of the Convention
+
+CITES is an international agreement to which States and regional economic integration organizations adhere voluntarily. States that have agreed to be bound by the Convention ('joined' CITES) are known as Parties. Although CITES is legally binding on the Parties – in other words they have to implement the Convention – it does not take the place of national laws. Rather it provides a framework to be respected by each Party, which has to adopt its own domestic legislation to ensure that CITES is implemented at the national level.
+
+For many years CITES has been among the conservation agreements with the largest membership, with now [185 Parties](https://cites.org/eng/disc/parties/index.php).
+
+[@bai2022]
+
+### How CITES works
+
+CITES works by subjecting international trade in specimens of selected species to certain controls. All import, export, re-export and introduction from the sea of species covered by the Convention has to be authorized through a licensing system. Each Party to the Convention must designate one or more Management Authorities in charge of administering that licensing system and one or more Scientific Authorities to advise them on the effects of trade on the status of the species.
+
+The species covered by CITES are listed in [three Appendices](https://cites.org/eng/app/index.php), according to the degree of protection they need. (See [here](https://cites.org/eng/disc/species.php) for additional information on the number and type of species covered by the Convention)
+
+### Appendices I and II
+
+**Appendix I** includes species threatened with extinction. Trade in specimens of these species is permitted only in exceptional circumstances.
+
+**Appendix II** includes species not necessarily threatened with extinction, but in which trade must be controlled in order to avoid utilization incompatible with their survival.
+
+### Appendix III
+
+This Appendix contains species that are protected in at least one country, which has asked other CITES Parties for assistance in controlling the trade. Changes to Appendix III follow a distinct procedure from changes to Appendices I and II, as each Party’s is entitled to make unilateral amendments to it.
+
+### Appendix-I specimens
+
+An import permit issued by the Management Authority of the State of import is required. This may be issued only if the specimen is not to be used for primarily commercial purposes and if the import will be for purposes that are not detrimental to the survival of the species. In the case of a live animal or plant, the Scientific Authority must be satisfied that the proposed recipient is suitably equipped to house and care for it.
+
+An export permit or re-export certificate issued by the Management Authority of the State of export or re-export is also required. An export permit may be issued only if the specimen was legally obtained; the trade will not be detrimental to the survival of the species; and an import permit has already been issued.
+
+A re-export certificate may be issued only if the specimen was imported in accordance with the provisions of the Convention and, in the case of a live animal or plant, if an import permit has been issued.
+
+In the case of a live animal or plant, it must be prepared and shipped to minimize any risk of injury, damage to health or cruel treatment.
+
+### Appendix-II specimens
+
+An export permit or re-export certificate issued by the Management Authority of the State of export or re-export is required.
+
+An export permit may be issued only if the specimen was legally obtained and if the export will not be detrimental to the survival of the species.
+
+A re-export certificate may be issued only if the specimen was imported in accordance with the Convention.
+
+In the case of a live animal or plant, it must be prepared and shipped to minimize any risk of injury, damage to health or cruel treatment.
+
+No import permit is needed unless required by national law. In the case of specimens introduced from the sea, a certificate has to be issued by the Management Authority of the State into which the specimens are being brought, for species listed in Appendix I or II. For further information, see the text of the Convention, Article III, paragraph 5 and Article IV, paragraph 6.
+
+### Appendix-III specimens
+
+In the case of trade from a State that included the species in Appendix III, an export permit issued by the Management Authority of that State is required. This may be issued only if the specimen was legally obtained and, in the case of a live animal or plant, if it will be prepared and shipped to minimize any risk of injury, damage to health or cruel treatment.
+
+In the case of export from any other State, a certificate of origin issued by its Management Authority is required.
+
+In the case of re-export, a re-export certificate issued by the State of re-export is required
+
+### CITES listed Species
+
+|   | Appendix I | Appendix II | Appendix III |
+|------------------|------------------|------------------|------------------|
+| **FAUNA** |   |  |  |
+| **Mammals** | 334 spp. (incl. 21 popns) + 14 sspp. (incl. 4 popns) | 523 spp. (incl. 22 popns) + 9 sspp. (incl. 4 popns) | 46 spp. + 11 sspp. |
+| **Birds** | 156 spp. (incl. 2 popns) + 5 sspp. | 1294 spp. (incl. 1 popn) + 6 sspp. | 60 spp. (incl. 31 popns) |
+| **Reptiles** | 105 spp. (incl. 7 popns) + 4 sspp. | 870 spp. (incl. 6 popns) | 215 spp. (incl. 1 popn) + 8 sspp. |
+| **Amphibians** | 24 spp. | 351 spp. | 5 spp. |
+| **Fish** | 16 spp. | 224 spp. | 19 spp. (incl. 10 popns) |
+| **Invertebrates** | 69 spp. + 7 sspp. | 2193 spp. + 1 sspp. | 27 spp. + 3 sspp. |
+|   |  |  |  |
+| **FAUNA TOTAL** | **704 spp. + 30 sspp.** | **5466 spp. + 16 sspp.** | **372 spp. + 22 sspp.** |
+|   |  |  |  |
+| **FLORA** | **395 spp. + 4 sspp. + 12 var.** | **33764 spp. (incl. 110 popns)** | **134 spp. + 1 var.** |
+|   |   |   |   |
+| **GRAND TOTAL** | **1099 spp. + 34 sspp. + 12 var.** | **39230 spp. + 16 sspp.** | **506 spp. + 22 sspp. + 1 var.** |
+
+### National laws for implementing the Convention
+
+National laws for implementing CITES is critical to ensure that trade in protected species is legal, sustainable and traceable. Legislation empowers government officials to act, regulates human behaviour and articulates policy in relation to conservation of and international trade in wildlife. 
+
+Although CITES is legally binding on States it is generally not self-executing. This means that it cannot be fully implemented until specific domestic measures have been adopted for that purpose. It is therefore essential that CITES Parties have legislation in place allowing them to implement and enforce all aspects of the Convention.
+
+Only through adequate legislation which is permanently up to date and efficiently enforced, both at the borders and within countries, can CITES really work. Adequate national legislation is key to effective wildlife trade controls by the State agencies charged with implementing and enforcing the Convention. It is also a vital prerequisite for ensuring that a State Party complies with the provisions of the Convention. 
+
+### National Legislation Project
+
+The National Legislation Project (NLP) is the Convention’s primary mechanism for encouraging and assisting Parties’ legislative efforts. National legislation is to meet the CITES minimum requirements to national legislation as expressed in Resolution Conf. 8.4 (Rev. CoP15).
+
+Parties' national legislation for the implementation of the Convention should provide them with the authority to\
+1. designate at least one Management Authority and one Scientific Authority\
+2. prohibit trade in specimens in violation of the Convention;\
+3. penalize such trade: [and]{.underline} \
+4. confiscate specimens illegally traded or possessed. 
+
+### How Effective is CITES?
+
+[@doukakis2012] claim that CITES may be effective in reducing the illegal caviar trade.
+
+See [@reeve2010] for an overview of compliance or otherwise with the CITES treaty.
+
+### Where CITES has worked well for migratory marine species
+
+1.  **Sharks and Rays (Elasmobranchs)**:
+
+See [@friedman2018]
+
+-   **Success**: CITES has played a significant role in protecting several shark and ray species, such as **whale sharks**, **basking sharks**, **great white sharks**, and **manta rays**. These species were listed in **Appendix II**, which regulates their international trade to ensure it is sustainable and does not threaten their survival.
+-   **Impact**: The listing of these species has led to improved monitoring, reporting, and enforcement of trade restrictions. For example, the inclusion of **thresher sharks**, **hammerhead sharks**, and **sawfish** in CITES has raised global awareness and prompted countries to adopt stricter measures to protect these species.
+
+2.  **Sea Turtles**:
+
+-   **Success**: All seven species of sea turtles are listed under **Appendix I**, which bans international commercial trade. This has helped reduce the exploitation of sea turtles for their shells, meat, and eggs.
+-   **Impact**: CITES has complemented other conservation efforts, such as the [Convention on Migratory Species (CMS)](https://www.cms.int/en), to protect sea turtles during their migratory journeys across international waters.
+
+3.  **Humphead Wrasse**:
+
+-   **Success**: The **humphead wrasse**, a coral reef fish, was listed on **Appendix II** in 2004 due to overfishing for the live reef fish trade. CITES has helped regulate its trade and promote sustainable management practices.
+-   **Impact**: Countries have implemented stricter controls on harvesting and trade, leading to better protection of this species in some regions.
+
+4.  **International Collaboration**:
+
+    -   CITES has fostered cooperation among countries to protect migratory marine species. For example, the inclusion of **porbeagle sharks** and **oceanic whitetip sharks** in CITES has encouraged countries to work together on conservation measures, such as catch limits and trade monitoring.
+
+### Where CITES Has Fallen Short for Migratory Marine Species
+
+1.  **Limited Focus on Non-Trade Threats**:
+    -   **Issue**: CITES primarily addresses threats from international trade, but many migratory marine species face broader challenges, such as **bycatch**, **habitat destruction**, **climate change**, and **pollution**. These threats are not directly addressed by CITES.
+    -   **Example**: **Leatherback sea turtles** are listed on Appendix I, but their populations continue to decline due to bycatch in fisheries and habitat loss, which CITES cannot directly regulate.
+2.  **Enforcement Challenges**:
+    -   **Issue**: Many migratory marine species traverse international waters, making enforcement of CITES regulations difficult. Illegal, unreported, and unregulated (IUU) fishing remains a significant problem.
+    -   **Example**: **Bluefin tuna**, which is listed on Appendix I, continues to face over fishing and illegal trade due to weak enforcement and high market demand.
+3.  **Slow Listing Process**:
+    -   **Issue**: The process of listing species under CITES can be slow and politically contentious, delaying protection for species in urgent need.
+    -   **Example**: **Mako sharks** were only recently listed on Appendix II (in 2019), despite years of scientific evidence showing their decline due to overfishing.
+4.  **Inadequate Coverage of Some Species**:
+    -   **Issue**: Some migratory marine species are not listed under CITES or are listed on Appendix II, which allows regulated trade. This can lead to unsustainable exploitation.
+    -   **Example**: **European eels** are listed on Appendix II, but their populations continue to plummet due to overharvesting and habitat loss. The regulated trade has not been sufficient to reverse their decline.
+5.  **Conflicts with Fisheries Management**:
+    -   **Issue**: CITES sometimes clashes with regional fisheries management organizations (RFMOs), which prioritize fishing interests over conservation.
+    -   **Example**: The inclusion of **sharks** and **rays** in CITES has faced resistance from fishing nations, leading to conflicts and delays in implementing conservation measures.
+
+## Convention on Migratory Species
+
+In principle, this treaty addresses one of the shortcomings of CITES, in that it does not only deal with trade issues, but with all threats to migratory species.
+
+[Convention on Migratory Species (CMS)](https://www.cms.int/en)
+
+[State of the World's Migratory Species](https://www.cms.int/sites/default/files/publication/State%20of%20the%20Worlds%20Migratory%20Species%20report_E.pdf)
+
+Like CITES, it is another international treaty that has to be implemented in national legislation by signatory countries ('parties')
